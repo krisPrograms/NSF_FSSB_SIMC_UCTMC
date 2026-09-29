@@ -1,5 +1,5 @@
 
-# Statistical Inference for Model Checking of Uncertain Continuous-Time Markov Chains
+### Statistical Inference for Model Checking of Uncertain Continuous-Time Markov Chains
 Takes an uncertain discrete time Markov Chain model (IDTMC) and constructs continuous-time Markov chain (CTMC) submodels. All models constructed from the RKIP-inhibited ERK pathway are stored in the "Models" folder, but the user can also create their own for analysis. "RKIP_ERK_Properties" holds the queries used for RKIP-inhibited ERK pathway analysis, but the user can also create their own. 
 
 ### Dependencies
