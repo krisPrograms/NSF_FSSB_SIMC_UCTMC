@@ -36,7 +36,9 @@ Takes an uncertain discrete time Markov Chain model (IDTMC) and constructs conti
 8. Steps 6 and 7 return the parameters (mean and standard deviation) of the approximated probability distributions using EM and MCMC respectively. For each set of parameters, calculate the difference between the approximated means and the query results from the original model. The smaller the difference between the results, the more accurate the statistical algorithm was in approximating model performance in the face of uncertainty. 
 
 Final results for this paper are recorded in 'CTMC_All_Results_Stats.csv'. This file includes the approximated probability distributions for all queries on both proteins using the EM and MCMC algorithms. The difference between the approximate probability distribution and the original model is also recorded. Further, the approximated probability distributions that fall below the average difference from the original model are identified.  
+
+
  
-#Sparks, Hailey, and Krishnendu Ghosh. "Statistical Inference and Probabilistic Model Checking on Uncertain Continuous-Time Markov Chains Representing Biochemical Pathways." In BIOSTEC (2), pp. 505-516. 2026.
-#Acknowledgement: NSF CCF Award # 2227898
+### Citation Sparks, Hailey, and Krishnendu Ghosh. "Statistical Inference and Probabilistic Model Checking on Uncertain Continuous-Time Markov Chains Representing Biochemical Pathways." In BIOSTEC (2), pp. 505-516. 2026.  
+### Acknowledgement: NSF CCF Award # 2227898
 
