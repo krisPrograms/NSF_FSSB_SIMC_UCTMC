@@ -1,0 +1,16 @@
+const int i;
+const double T;
+
+P=? [ true U[T,T] RAF1divRKIP=i ]
+
+P=? [ true U[T,T] RAF1divRKIPdivERKminPP=i ]
+
+R{"percentage_RAF1divRKIP"}=? [ I=T ]
+
+R{"percentage_RAF1divRKIPdivERKminPP"}=? [ I=T ]
+
+R{"percentage_RAF1divRKIP"}=? [ S ]
+
+R{"percentage_RAF1divRKIPdivERKminPP"}=? [ S ]
+
+
